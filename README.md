@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/194eff39-bf11-4556-ad09-729ac69b1d70)
 
 # CAPSTONE-PROJECT-CUSTOMER-CHURN
-# Customer Churn Prediction - README
+
 
 ## **Project Overview**
 Customer churn is a major challenge in the telecom industry, leading to significant revenue loss. This project aims to predict customer churn using machine learning models, enabling businesses to proactively retain at-risk customers through targeted interventions. By analyzing key customer attributes and service usage, we developed a robust predictive model that helps businesses improve customer retention strategies.
